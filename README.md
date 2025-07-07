@@ -29,7 +29,7 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/2929raghav)
 - 👨‍💻 [Google Cloud Skill Badges](https://www.cloudskillsboost.google/public_profiles/edded6be-51a8-49a6-bf79-b76fa03124bb)
-- 💬 Ask me about **AI Agents, MERN Stack, AI/ML**
+- 💬 Ask me about **AI Agents, MERN Stack, AI/ML, Django, flask, FastAPI**
 - 📫 Reach me at **2929raghav.agarwal@gmail.com**
 
 ---
